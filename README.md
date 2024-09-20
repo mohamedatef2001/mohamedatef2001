@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Diffe-Hellman-Key Exchange and networking<br>🌱 I’m currently learning cyber security
+🔭 I’m currently working on Diffe-Hellman-Key Exchange and Networking<br>🌱 I’m currently learning cyber security
 
 
 ## 🌐 Socials:
