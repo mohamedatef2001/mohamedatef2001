@@ -1,21 +1,15 @@
-<h1 align="center">Hi 👋, I'm Mohamed Atef</h1>
-<h3 align="center">Fresh graduate student in Electronics and Communication Engineering, with a focus on digital design , Networking and cyber security</h3>
+# 💫 About Me:
+🔭 I’m currently working on Diffe-Hellman-Key Exchange and networking<br>🌱 I’m currently learning cyber security
 
-- 🔭 I’m currently working on [Diffe-Hellman-Key Exchange](https://github.com/mohamedatef2001/Diffie-Hellman-Key-Exchnge)
 
-- 🌱 I’m currently learning **Cyber Security**
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohamed) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mohamedatef2001&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mohamedatef2001&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedatef2001&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/mohamed-atef-a06675278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/mohamed-atef-a06675278" height="30" width="40" /></a>
-<a href="https://instagram.com/mohamedatef2214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohamedatef2214" height="30" width="40" /></a>
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mohamedatef2001&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedatef2001&show_icons=true&locale=en&layout=compact" alt="mohamedatef2001" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedatef2001&show_icons=true&locale=en" alt="mohamedatef2001" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedatef2001&" alt="mohamedatef2001" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
