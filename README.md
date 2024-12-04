@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Digital Design and Networking Projects<br>🌱 I’m currently learning cyber security
+🔭 I’m currently working on Digital IC Design Projects<br>🌱 I’m currently learning cyber security
 
 
 ## 🌐 Socials:
